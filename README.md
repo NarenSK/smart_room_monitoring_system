@@ -74,4 +74,3 @@ See [Expected Output & Test Checklist](docs/EXPECTED_OUTPUT.md).
 
 ## Contributors
 - Naren S K
-- Manjuprasad T.K
