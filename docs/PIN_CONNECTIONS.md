@@ -40,7 +40,6 @@ This document is kept separate from the firmware so the circuit diagram can be a
 7. Resistor values are starting points; tune for the actual components.
 
 ## Circuit Diagram
-## Circuit Diagram
 
 The hardware implementation of this project was physically assembled and tested offline. The following Cirkit Designer project provides an online representation of the circuit for reference and visualization.
 
