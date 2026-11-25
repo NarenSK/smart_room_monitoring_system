@@ -49,7 +49,3 @@ The hardware implementation of this project was physically assembled and tested 
 `
 
 The design includes an ESP32, IR sensor, LDR voltage divider, SSD1306 OLED display, BME280 environmental sensor, and automatic lighting LED.
-
-```markdown
-![Circuit diagram](diagrams/circuit-diagram.png)
-```
