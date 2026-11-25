@@ -45,7 +45,5 @@ This document is kept separate from the firmware so the circuit diagram can be a
 The hardware implementation of this project was physically assembled and tested offline. The following Cirkit Designer project provides an online representation of the circuit for reference and visualization.
 
 - **Interactive Circuit:** [View Smart Room Monitoring System](https://app.cirkitdesigner.com/project/fbca92e0-41f3-4058-bb56-b1095acb58e9)
-- **Circuit Image:** See `<img width="1049" height="965" alt="smart-room-monitoring-system" src="https://github.com/user-attachments/assets/999a8ab6-fdc2-4b80-b02a-6378ca36d3d7" />
-`
 
 The design includes an ESP32, IR sensor, LDR voltage divider, SSD1306 OLED display, BME280 environmental sensor, and automatic lighting LED.
