@@ -61,7 +61,7 @@ See [Expected Output & Test Checklist](docs/EXPECTED_OUTPUT.md).
 │   ├── PIN_CONNECTIONS.md
 │   ├── SYSTEM_OVERVIEW.md
 │   └── EXPECTED_OUTPUT.md
-├── diagrams/README.md
+|   └── smart-room-monitoring-system.png (Connection Diagram)
 └── README.md
 ```
 
